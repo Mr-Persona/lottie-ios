@@ -13,6 +13,7 @@ public enum CoordinateSpace: Int, Codable, Sendable {
   case type2d
   case type3d
     case type4d
+    case type5d
 }
 
 // MARK: - LottieAnimation
